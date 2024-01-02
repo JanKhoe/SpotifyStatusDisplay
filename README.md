@@ -1,2 +1,7 @@
 # SpotifyStatusDisplay
-Web application that allows users to display and share their Spotify Status with others!
+Web application that allows users to display and share their Spotify Status with others! Made with React and the Python Django Framework.
+
+# Instructions to run
+1. run `npm install` in the same directory as the package.json
+2. run `python manage.py runserver`
+3. follow url given by server ( usually http://127.0.0.1:8000/ )
